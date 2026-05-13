@@ -47,7 +47,8 @@ The goal of this project is to perform end-to-end data analysis and create an in
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="1295" height="827" alt="image" src="https://github.com/user-attachments/assets/150260fd-b5ba-4622-90a7-39946b69da9a" />
+
 
 ---
 
